@@ -1,0 +1,28 @@
+{
+    "courses":{
+        "ids":[
+            "100",
+            "200",
+            "300"
+        ],
+        "entities":{
+            "100":{
+                "id":1,
+                "name":"Maths",
+                "discription":"Maths Book"
+            },
+            "200":{
+                "id":2,
+                "name":"Science",
+                "discription":"Science Book"
+            },
+            "300":{
+                "id":3,
+                "name":"Hindi",
+                "discription":"Hindi Book"
+            }
+        },
+
+        "coursesLoaded":true
+    } 
+}
